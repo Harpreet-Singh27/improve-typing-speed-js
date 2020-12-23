@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: aqua;
+}
+h1,
+h3 {
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+}
+.show {
+  height: 100px;
+  width: 30%;
+  /*border: 2px solid red;*/
+  margin: 100px 40% 10px 40%;
+}
+#show1 {
+  height: 80px;
+  width: 100%;
+  background-color: lightgray;
+  text-align: center;
+  font-weight: bold;
+  color: crimson;
+  font-size: 25px;
+}
+#enter1 {
+  height: 80px;
+  width: 100%;
+  background-color: lightgray;
+  text-align: center;
+  font-weight: bold;
+  color: crimson;
+  font-size: 25px;
+}
+.enter {
+  height: 100px;
+  width: 30%;
+  /*border: 2px solid black;*/
+  margin: 10px 40%;
+}
